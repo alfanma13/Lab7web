@@ -24,26 +24,28 @@ Predevine Variabel
 Input Form
 ![6](https://user-images.githubusercontent.com/81576195/117674880-4396b500-b1d6-11eb-9d48-00adc6f90b39.png)
 
-Data Gaji Operator
+Input Form
 ![7](https://user-images.githubusercontent.com/81576195/117674919-4c878680-b1d6-11eb-9732-a9cdce98d4cd.png)
 
-Kondisi If
+Data Gaji Operator
 ![8](https://user-images.githubusercontent.com/81576195/117674990-5f01c000-b1d6-11eb-9221-2e4f98b24b71.png)
 
-Kondisi Switch
+Kondisi If
 ![9](https://user-images.githubusercontent.com/81576195/117675035-688b2800-b1d6-11eb-8ce0-0ebe0f054b6d.png)
 
-Perulangan For
+Perulangan switch
 ![10](https://user-images.githubusercontent.com/81576195/117675114-7d67bb80-b1d6-11eb-87c2-ae4ecc9f28bf.png)
 
-Perulangan While
+Perulangan for
 ![11](https://user-images.githubusercontent.com/81576195/117675162-8789ba00-b1d6-11eb-9d68-5804199e9dbc.png)
 
-Perulangan do while
+Perulangan while
 ![12](https://user-images.githubusercontent.com/81576195/117675310-a7b97900-b1d6-11eb-9ace-6e776f7bdc7a.png)
 
-TUGAS 
+Perulangan Do while 
 ![13](https://user-images.githubusercontent.com/81576195/117675375-b3a53b00-b1d6-11eb-8db3-d280cf86d6a4.png)
+
+Tugas
 ![14](https://user-images.githubusercontent.com/81576195/117675399-b869ef00-b1d6-11eb-971a-4446f7c51c88.png)
 ![15](https://user-images.githubusercontent.com/81576195/117675423-bdc73980-b1d6-11eb-8f84-f1b0f9880515.png)
 ![16](https://user-images.githubusercontent.com/81576195/117675432-c15ac080-b1d6-11eb-934a-a148df5cb186.png)
